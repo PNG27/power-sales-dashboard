@@ -2,8 +2,6 @@
 
 This Power BI project showcases a detailed sales performance dashboard for **Market Maven**, providing actionable insights across product brands, revenue trends, transactions, and returns.
 
-![Market Maven Dashboard](60c4810f-d3a4-464e-95fa-de9a183b737c.png)
-
 ---
 
 ## 🧠 Project Overview
@@ -72,8 +70,7 @@ This dashboard enables decision-makers to:
 
 If you like this project or have feedback, feel free to connect:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/yourusername)
-
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathmesh-ghormade/)
+- 💻 [GitHub](https://github.com/PNG27)
+- 🔗 [ProjectLink](https://app.powerbi.com/links/czwpytTuMp?ctid=8bb5eb58-6580-4d23-8008-c60e1928d208&pbi_source=linkShare)
 
